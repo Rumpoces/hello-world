@@ -5,3 +5,4 @@ Create branch. Modify file. Merge branch with master.
 Delete branch.
 Redo the procedure.
 2018.08.08: Add some text 1.
+2018.08.08: Add some text 2 in branch 2018.08.08_Branch.
